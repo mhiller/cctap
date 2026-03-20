@@ -1,1 +1,3 @@
-# No third-party dependencies. Python 3.8+ standard library only.
+# Telegram backend: no dependencies (Python 3.8+ stdlib only)
+# Slack backend: requires aiohttp
+aiohttp>=3.9
